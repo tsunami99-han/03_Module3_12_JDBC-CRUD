@@ -1,0 +1,16 @@
+model/User.java
+ model.User
+dao/IUSerDAO.java
+ dao.IUSerDAO
+model/Blog.java
+ model.Blog
+dao/IBlogDAO.java
+ dao.IBlogDAO
+dao/UserDAO.java
+ dao.UserDAO
+controller/UserServlet.java
+ controller.UserServlet
+dao/BlogDAO.java
+ dao.BlogDAO
+controller/BlogController.java
+ controller.BlogController
